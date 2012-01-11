@@ -1,0 +1,71 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/maciejka/projekty/save2cloud/save2cloud/" . "templates/")
+ ("/home/maciejka/projekty/save2cloud/" . "save2cloud/")
+ ("/home/maciejka/.emacs.d/elpa/" . "zenburn-0.1/")
+ ("/home/maciejka/.emacs.d/" . "elpa/")
+ ("/home/maciejka/projekty/burnedoutdad/" . "faces/")
+ ("/home/maciejka/projekty/" . "lcj/")
+ ("/home/maciejka/" . "projekty/")
+ ("/home/" . "maciejka/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/maciejka/projekty/lcj/"
+ "/home/maciejka/.emacs.d/"
+ "/home/maciejka/projekty/save2cloud/save2cloud/templates/"
+ "/home/maciejka/projekty/save2cloud/save2cloud/sample/"
+ "/home/maciejka/projekty/save2cloud/save2cloud/"
+ "/home/maciejka/projekty/burnedoutdad/faces/"
+ "/home/maciejka/.emacs.d/elpa/zenburn-0.1/"
+ "/home/maciejka/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "README"
+ "init.el"
+ "bookmarklet.js"
+ "stub.js"
+ "index.html"
+ "views.py"
+ "urls.py"
+ "settings.py"
+ "faces.js"
+ "zenburn.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/maciejka/projekty/lcj/" (20237 62273) "./" "project.clj" "test/" ".git/" "../" "README" "src/")
+
+ ("/home/maciejka/projekty/" (20237 62266) "burnedoutdad/" "./" "lcj/" "emacs24.d/" "../" "Smallest-Federated-Wiki/" "save2cloud/")
+
+ ("/home/maciejka/" (20237 61509) ".thumbnails/" ".lein/" ".m2/" ".Skype/" ".nautilus/" ".bash_history" ".local/" ".gnome2_private/" ".bash_logout" "Ubuntu One/" ".ICEauthority" "#x.x#" ".config/" ".gvfs/" ".cache/" ".themes/" ".dmrc" ".selected_editor" "Downloads/" ".pulse-cookie" "./" ".rvm/" ".emacs.d/" "Music/" ".recentf" "Public/" ".adobe/" ".gconf/" ".pulse/" ".libreoffice/" ".xsession-errors" ".sudo_as_admin_successful" ".icons/" ".esd_auth" ".ido.last" ".emacs.d.old/" ".xsession-errors.old" ".gtk-bookmarks" ".gconfd/" ".bashrc" ".ssh/" ".gitconfig" ".dropbox-dist/" ".compiz/" ".gksu.lock" ".chromium-bsu" "workspace/" ".eclipse/" ".mc/" "bin/" "Dropbox/" ".dbus/" "../" ".pki/" ".mission-control/" ".fontconfig/" ".macromedia/" "Templates/" ".profile" ".mozilla/" "projekty/" ".gnome2/" "examples.desktop" "Videos/" ".gstreamer-0.10/" ".dropbox/" "Pictures/" "Documents/" "Desktop/")
+
+ ("/home/maciejka/.emacs.d/" (20237 61299) "auto-save-list/" ".smex-items" "init.el~" "./" "init.el" "elpa/" "url/" "places" ".git/" "backups/" "../" "README")
+
+ ("/home/maciejka/projekty/save2cloud/save2cloud/templates/" (20191 56462) "./" "bookmarklet.js" "../" "index.html" "stub.js")
+
+ ("/home/maciejka/projekty/save2cloud/save2cloud/" (20190 41050) "sample/" "manage.py" "settings.py" "__init__.py" "./" "templates/" "settings.pyc" "../" "urls.pyc" "__init__.pyc" "urls.py")
+
+ ("/home/maciejka/projekty/save2cloud/save2cloud/sample/" (20190 40996) "views.py" "models.py" "__init__.py" "./" "tests.py" "views.pyc" "../" "__init__.pyc")
+
+ ("/home/maciejka/projekty/save2cloud/" (20190 37564) "./" "../" "save2cloud/")
+
+ ("/home/maciejka/projekty/burnedoutdad/faces/" (20189 15611) "buziak1.jpg" "buziak3c.jpg" "buziak2c.jpg" "buziak3.jpg" "buziak1b.jpg" "buziak1c.jpg" "./" "faces.html" "buziak5a.jpg" "buziak3a.jpg" "buziak5b.jpg" "buziak4.jpg" "buziak6a.jpg" "buziak6c.jpg" "buziak2.jpg" "faces.css" "../" "buziak4c.jpg" "buziak4b.jpg" "buziak5.jpg" "buziak1a.jpg" "buziak3b.jpg" "buziak6b.jpg" "buziak2b.jpg" "buziak2a.jpg" "faces.js" "buziak4a.jpg" "buziak6.jpg" "buziak5c.jpg")
+
+ ("/home/maciejka/.emacs.d/elpa/zenburn-0.1/" (20189 13084) "zenburn-pkg.el" "./" "zenburn-autoloads.el" "zenburn-pkg.elc" "../" "zenburn.el")
+
+ ("/home/maciejka/.emacs.d/elpa/" (20189 13219) "starter-kit-eshell-2.0.2/" "smex-1.1.1/" "./" "ido-ubiquitous-0.8/" "starter-kit-js-2.0.1/" "find-file-in-project-3.0/" "elisp-slime-nav-0.2/" "archives/" "paredit-22/" "../" "starter-kit-bindings-2.0.2/" "starter-kit-2.0.3/" "zenburn-theme-1.0/" "idle-highlight-mode-1.1.2/" "starter-kit-lisp-2.0.3/" "magit-1.0.0/" "zenburn-0.1/")
+
+ ("/home/maciejka/projekty/burnedoutdad/" (20053 27917) "robots.txt" "draw/" ".hg/" ".hgignore" "./" "../" "faces/" "app.yaml" "pavement.py")
+
+ ("/home/" (20034 60399) "./" "../" "maciejka/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

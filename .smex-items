@@ -1,0 +1,28 @@
+
+;; ----- smex-history -----
+(
+ clojure-jack-in
+ package-install
+ ispell
+ version
+ js-mode
+ text-mode
+ load-theme
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 25)
+ (customize-face . 1)
+ (load-theme . 18)
+ (longlines-mode . 10)
+ (toggle-word-wrap . 1)
+ (hl-line-mode . 3)
+ (paredit-kill . 1)
+ (disable-paredit-mode . 2)
+ (text-mode . 2)
+ (js-mode . 2)
+ (version . 1)
+ (ispell . 1)
+ (clojure-jack-in . 2)
+)
